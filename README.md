@@ -47,13 +47,14 @@ cd ESP32-CAM_Surveillance
 3. Start receiving video footage and alerts!  
 
 ## 📸 **Project Images**  
-### 📌 Camera Setup  
+### 📌 Overall Build  
 <img src="Images/1.jpg" alt="Camera Setup" width="600">  
+<img src="Images/2.jpg" alt="Camera Setup" width="600"> 
 
 ### 📌 Circuit Connection  
-<img src="Images/2.jpg" alt="Circuit Diagram" width="600">  
+<img src="Images/Circuit.jpg" alt="Circuit Diagram" width="600">  
 
-### 📌 Live Demo  
+### 📌 Camera Setup  
 <img src="Images/3.jpg" alt="Live Streaming Preview" width="600">  
 
 ## 📜 **Credits & Acknowledgments**  
