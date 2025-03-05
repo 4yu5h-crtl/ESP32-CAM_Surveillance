@@ -62,4 +62,4 @@ This project is **based on and forked from** [s60sc's ESP32-CAM_MJPEG2SD](https:
 Thanks to the original developer for their work! 🙌  
 For a detailed guide, refer to the original developer's repository.
 
-If you find this useful, feel free to **⭐ star** the repo and contribute! 🔥 
+If you find this useful, feel free to **⭐ star** the repo! 🔥 
