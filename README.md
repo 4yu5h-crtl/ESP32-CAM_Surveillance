@@ -52,7 +52,7 @@ cd ESP32-CAM_Surveillance
 <img src="Images/2.jpg" alt="Camera Setup" width="600"> 
 
 ### 📌 Circuit Connection  
-<img src="Images/Circuit.jpg" alt="Circuit Diagram" width="600">  
+<img src="Images/Circuit.png" alt="Circuit Diagram" width="600">  
 
 ### 📌 Camera Setup  
 <img src="Images/3.jpg" alt="Live Streaming Preview" width="600">  
