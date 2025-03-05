@@ -3,7 +3,7 @@
 🚀 **A low-cost, battery-powered surveillance camera with motion detection, live streaming, and Telegram bot integration!**  
 
 ## 📌 **About the Project**  
-This project is a **DIY smart surveillance system** built using the **ESP32-CAM**. It supports **motion-triggered recording, remote access, and servo-controlled movement** for better coverage. The recordings are automatically stored and can be accessed via a **Telegram bot**.  
+This project is a DIY smart surveillance system built using the ESP32-CAM. For better coverage, it supports motion-triggered recording, remote access, and servo-controlled movement. The recordings are automatically stored and can be accessed via a Telegram bot.  
 
 This repository is **forked from** [s60sc's ESP32-CAM_MJPEG2SD](https://github.com/s60sc/ESP32-CAM_MJPEG2SD) and modified to add extended features.  
 
@@ -19,7 +19,6 @@ This repository is **forked from** [s60sc's ESP32-CAM_MJPEG2SD](https://github.c
 ## 🛠️ **Hardware Components**  
 - **ESP32-CAM** – Handles video streaming & processing  
 - **TP4056 Module** – LiPo battery charging  
-- **DC-DC 5V Converter** – Ensures stable power supply  
 - **Mini DC-DC Boost Step-Up Converter Board** – Voltage regulation  
 - **100µF & 10µF Capacitors** – Circuit stability  
 - **2 LiPo Batteries** – Repurposed from an **old laptop battery**  
