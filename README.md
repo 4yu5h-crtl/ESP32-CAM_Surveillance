@@ -47,6 +47,16 @@ cd ESP32-CAM_Surveillance
 2. Add the bot token to the code.  
 3. Start receiving video footage and alerts!  
 
+## 📸 **Project Images**  
+### 📌 Camera Setup  
+<img src="Images/1.jpg" alt="Camera Setup" width="600">  
+
+### 📌 Circuit Connection  
+<img src="Images/2.jpg" alt="Circuit Diagram" width="600">  
+
+### 📌 Live Demo  
+<img src="Images/3.jpg" alt="Live Streaming Preview" width="600">  
+
 ## 📜 **Credits & Acknowledgments**  
 This project is **based on and forked from** [s60sc's ESP32-CAM_MJPEG2SD](https://github.com/s60sc/ESP32-CAM_MJPEG2SD). 
 Thanks to the original developer for their work! 🙌  
