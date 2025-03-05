@@ -5,7 +5,7 @@
 ## 📌 **About the Project**  
 This project is a **DIY smart surveillance system** built using the **ESP32-CAM**. It supports **motion-triggered recording, remote access, and servo-controlled movement** for better coverage. The recordings are automatically stored and can be accessed via a **Telegram bot**.  
 
-This repository is **forked from** [s60sc's ESP32-CAM_MJPEG2SD](https://github.com/s60sc/ESP32-CAM_MJPEG2SD) and modified to add extended features**.  
+This repository is **forked from** [s60sc's ESP32-CAM_MJPEG2SD](https://github.com/s60sc/ESP32-CAM_MJPEG2SD) and modified to add extended features.  
 
 ## 🔧 **Features**  
 ✅ **Live Video Streaming** – Access real-time footage remotely  
@@ -48,8 +48,8 @@ cd ESP32-CAM_Surveillance
 3. Start receiving video footage and alerts!  
 
 ## 📜 **Credits & Acknowledgments**  
-This project is **based on and forked from** [s60sc's ESP32-CAM_MJPEG2SD](https://github.com/s60sc/ESP32-CAM_MJPEG2SD). Thanks to the original developer for their work! 🙌  
-
----
+This project is **based on and forked from** [s60sc's ESP32-CAM_MJPEG2SD](https://github.com/s60sc/ESP32-CAM_MJPEG2SD). 
+Thanks to the original developer for their work! 🙌  
+For a detailed guide, refer to the original developer's repository.
 
 If you find this useful, feel free to **⭐ star** the repo and contribute! 🔥 
