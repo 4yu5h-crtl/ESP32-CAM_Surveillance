@@ -33,7 +33,7 @@ This repository is **forked from** [s60sc's ESP32-CAM_MJPEG2SD](https://github.c
 ## 📂 **Installation & Usage**  
 ### **1️⃣ Clone the Repository**  
 ```bash
-git clone https://github.com/your-username/ESP32-CAM_Surveillance.git
+git clone https://github.com/4yu5h-crtl/ESP32-CAM_Surveillance.git
 cd ESP32-CAM_Surveillance
 ```
 ### **2️⃣ Flash the Code to ESP32-CAM**  
